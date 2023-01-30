@@ -14,8 +14,11 @@ This Project is based on Python 3.9 and uses several common libraries, which nee
 **Authors**
 
 Alienor Bosse 49675@novasbe.pt
+
 Constantin Baumann 49620@novasbe.pt
+
 Leonie Mostbeck 49238@noasbe.pt
+
 Tara Tumbrägel 48333@novasbe.pt
 
 **License**
